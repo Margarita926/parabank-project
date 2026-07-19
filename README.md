@@ -6,19 +6,19 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 
 # Not logged in user:
 
-Positive and negative auth - register & sign-in.
-Forgot login info?
+- Positive and negative auth - register & sign-in.
+- Forgot login info?
 
 # Logged in user:
-Account Overview
-Account Overivew -> Account Details & Account Activity filtering
-Open New Account
-Transfer Funds
-Bill Pay
-Request Loan
-Find Transactions
-Update Contact Info
-Log out
+- Account Overview
+- Account Overivew -> Account Details & Account Activity filtering
+- Open New Account
+- Transfer Funds
+- Bill Pay
+- Request Loan
+- Find Transactions
+- Update Contact Info
+- Log out
 
 ## Technologies Used
 - Playwright

@@ -1,1 +1,1 @@
-{}
+{"768ddae68b655ca0410775efce7fdd0e:5bd835b0d6b1d4ada3b9f0db936e82c8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"e5b124b3f8045a8e","status":"failed","statusDetails":"Error: Unable to register user after multiple retries.","time":{"start":1784477514803,"stop":1784477525543,"duration":10740}}]}}

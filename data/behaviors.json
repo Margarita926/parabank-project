@@ -1,1 +1,1 @@
-{"uid":"b1a8273437954620fa374b796ffaacdd","children":[],"name":"behaviors"}
+{"uid":"b1a8273437954620fa374b796ffaacdd","children":[{"name":"Successful account creation with `Checking` type","uid":"e5b124b3f8045a8e","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"failed","time":{"start":1784477514803,"stop":1784477525543,"duration":10740},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["chromium"],"tags":[]}],"name":"behaviors"}

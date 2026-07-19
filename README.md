@@ -29,7 +29,7 @@ Log out
 - ESLint та Prettier
 
 ## Preview Link
-- Test report (GitHub Pages): https://margarita926.github.io/parabank-project/
+- Test report (GitHub Pages): https://github.com/Margarita926/parabank-project
 
 ## Design/Reference Link
 - Reference application (test environment): https://parabank.parasoft.com/

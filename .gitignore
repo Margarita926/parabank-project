@@ -12,4 +12,12 @@ node_modules
 backstop_data
 dist
 .cache
-.parcel-cache
+
+/test-results/
+/playwright-report/
+allure-results/
+allure-report/
+/blob-report/
+/playwright/.cache/
+./vscode
+*.log

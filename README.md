@@ -100,18 +100,22 @@ npm run report:open
 ```
 
 ## Additional Run Instructions
-
-### 1) Adds all changed files, prepares them for commit
+1. Adds all changed files, prepares them for commit:
+```bash
 git add .  
-
-### 2) Save the staged changes to the local repository
+```
+2. Save the staged changes to the local repository:
+```bash
 git commit -m "comment"
-
-### 33) Sends the committed changes from the local master branch to the remote origin repository
+```
+3. Sends the committed changes from the local master branch to the remote origin repository:
+```bash
 git push origin master
-
-### 4) Publish report to GitHub Pages
+```
+4. Publish report to GitHub Pages:
+```bash
 npm run deploy
+```
 
 ## Good to Know
 - By default, the configuration uses ENV_TYPE=local.

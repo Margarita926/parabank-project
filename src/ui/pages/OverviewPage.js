@@ -1,7 +1,7 @@
 // /parabank/register.htm
 import{expect, testStep} from '../../common/helpers/pwHelpers';
 
-const BALANCE_SUM = '$415.50';
+const BALANCE_SUM = '$900.00';
 const MIN_DEPOSIT = '$100.00';
 
 export class OverviewPage{

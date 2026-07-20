@@ -88,4 +88,5 @@ export const test = base.extend<
     },
     { scope: 'test', auto: true },
   ],
+
 });

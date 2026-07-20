@@ -86,10 +86,11 @@ npx playwright test tests/auth/signIn/signInPositive.spec.js
 ```bash
  npx playwright test
 ```
-2. To create an HTML report, you need to use the command:
+2. To create/open the report from existing test results, use:
 ```bash
  allure serve allure-results
 ```
+This command does not run tests. If `allure-results` contains only part of a run, the report will also show only that part.
 3. To run full tests for Allure (clean results first) use the command:
 ```bash
 npm run test:allure

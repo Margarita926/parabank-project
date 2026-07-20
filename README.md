@@ -90,15 +90,6 @@ npx playwright test tests/auth/signIn/signInPositive.spec.js
 ```bash
  allure serve allure-results
 ```
-This command does not run tests. If `allure-results` contains only part of a run, the report will also show only that part.
-3. To run full tests for Allure (clean results first) use the command:
-```bash
-npm run test:allure
-```
-4. Open Allure report:
-```bash
-npm run report:open
-```
 
 ## Additional Run Instructions
 1. Adds all changed files, prepares them for commit:

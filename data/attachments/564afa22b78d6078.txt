@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u902448psj",
+  "email": "justyn_winston35@gmail.com",
+  "password": "gufSgUrKPvsjMZp",
+  "firstName": "Noah",
+  "lastName": "Casper",
+  "city": "Gorczanystead",
+  "address": "262 Hegmann Pine",
+  "state": "Arizona",
+  "zipCode": "77460-3887",
+  "phoneNumber": "375-818-4560 x51994",
+  "ssn": "697788916"
+}

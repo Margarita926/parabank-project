@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u913960skk",
+  "email": "foster_bertrand_hyatt76@hotmail.com",
+  "password": "0VEwSyN16bJMLd2",
+  "firstName": "Kacie",
+  "lastName": "Spencer",
+  "city": "Haleyton",
+  "address": "668 Petra Fords",
+  "state": "West Virginia",
+  "zipCode": "43225-9469",
+  "phoneNumber": "549.828.0073 x067",
+  "ssn": "010286300"
+}

@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u052276jzm",
+  "email": "felicity_arturo.jenkins57@hotmail.com",
+  "password": "2sKtzA77crsNUJe",
+  "firstName": "Eleanore",
+  "lastName": "Gusikowski",
+  "city": "Madonnachester",
+  "address": "62775 Jones Drive",
+  "state": "Iowa",
+  "zipCode": "85678",
+  "phoneNumber": "(420) 902-8677 x190",
+  "ssn": "436522190"
+}

@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u908272mlu",
+  "email": "aurelie_abraham_oconner54@gmail.com",
+  "password": "H3GXj1Xdqh8G__k",
+  "firstName": "Davon",
+  "lastName": "Lockman",
+  "city": "North Ryleigh",
+  "address": "436 Emerson Circles",
+  "state": "Oklahoma",
+  "zipCode": "41532-2402",
+  "phoneNumber": "495-937-5555 x7521",
+  "ssn": "323311290"
+}

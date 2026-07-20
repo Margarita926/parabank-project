@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u905122gob",
+  "email": "eric_fletcher.kuhn@yahoo.com",
+  "password": "cldZndTmemr5KeQ",
+  "firstName": "Ryley",
+  "lastName": "Langosh",
+  "city": "Waelchishire",
+  "address": "342 Langosh Ridges",
+  "state": "Arizona",
+  "zipCode": "40701-1752",
+  "phoneNumber": "966.481.9571",
+  "ssn": "833329118"
+}

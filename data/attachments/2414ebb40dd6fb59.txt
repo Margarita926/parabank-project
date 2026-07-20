@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u973708pwh",
+  "email": "cassie_tanner.trantow@gmail.com",
+  "password": "pELEceljGki4SAT",
+  "firstName": "Garret",
+  "lastName": "Barton",
+  "city": "West Houstonburgh",
+  "address": "91782 Fiona Stream",
+  "state": "Michigan",
+  "zipCode": "41681-5783",
+  "phoneNumber": "997-452-7782",
+  "ssn": "615396649"
+}

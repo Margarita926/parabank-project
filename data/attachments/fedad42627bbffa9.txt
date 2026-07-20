@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u056515p7g",
+  "email": "eleanore_jaylan77@gmail.com",
+  "password": "rbbzWSuDV8aZ6Up",
+  "firstName": "Dawson",
+  "lastName": "Zemlak",
+  "city": "Port Nataliaside",
+  "address": "335 Amos Station",
+  "state": "Vermont",
+  "zipCode": "16662",
+  "phoneNumber": "1-915-962-6471",
+  "ssn": "520538899"
+}

@@ -38,37 +38,79 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 ## Design/Reference Link
 - Reference application (test environment): https://parabank.parasoft.com/
 
-## Additional Run Instructions
 
-### 1) Install dependencies
-npm install
 
-### 2) Install Playwright browsers
+# How to use this project
+
+## Installation steps
+
+To install the project follow the next steps:
+
+1. Install Node.js.
+2. Run the installation command in the project root.:
+```bash
+npm ci
+```
+3. Run the browsers installation in the project root.
+```bash
 npx playwright install
+```
+4. Install Allure commandline tool (Allure requires Java 8 or higher).
+```bash
+npm install -g allure-commandline
+```
 
-### 3) Run tests
+# How to run tests
+1. Run all tests across all configured browsers:
+```bash
 - Headless mode:
 npx playwright test
-
+```
+```bash
 - UI mode:
 npx playwright test --ui
+``` 
 
-### 4) Run full tests for Allure (clean results first)
+2. Run all tests in appropriate browser:
+```bash
+npx playwright test --project=firefox
+```
+3. Run specific tests file:
+```bash
+npx playwright test tests/auth/signIn/signInPositive.spec.js
+```
+
+
+## How to generate report
+1. To generate an Allure report, you first need to run tests using the following command:
+```bash
+ npx playwright test
+```
+2. To create an HTML report, you need to use the command:
+```bash
+ allure serve allure-results
+```
+3. To run full tests for Allure (clean results first) use the command:
+```bash
 npm run test:allure
-
-### 5) Open Allure report
+```
+4. Open Allure report:
+```bash
 npm run report:open
+```
 
-### 6) Adds all changed files, prepares them for commit
+## Additional Run Instructions
+
+### 1) Adds all changed files, prepares them for commit
 git add .  
 
-### 7) Save the staged changes to the local repository
+### 2) Save the staged changes to the local repository
 git commit -m "comment"
 
-### 8) Sends the committed changes from the local master branch to the remote origin repository
+### 33) Sends the committed changes from the local master branch to the remote origin repository
 git push origin master
 
-### 6) Publish report to GitHub Pages
+### 4) Publish report to GitHub Pages
 npm run deploy
 
 ## Good to Know

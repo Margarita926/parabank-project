@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u592183zup",
+  "email": "zachary_merle.grant-west@hotmail.com",
+  "password": "681ZZxfwACj3lbd",
+  "firstName": "Jermain",
+  "lastName": "Muller",
+  "city": "Danielside",
+  "address": "52983 Kara Extensions",
+  "state": "Ohio",
+  "zipCode": "77462-8075",
+  "phoneNumber": "(456) 667-2747 x71159",
+  "ssn": "308853602"
+}

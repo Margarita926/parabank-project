@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u339376c01",
+  "email": "damien_elias1@gmail.com",
+  "password": "h6XCpUY9icwX7Qu",
+  "firstName": "Sasha",
+  "lastName": "Kohler",
+  "city": "North Blake",
+  "address": "345 Bell Inlet",
+  "state": "Montana",
+  "zipCode": "99635",
+  "phoneNumber": "617.624.4998 x71861",
+  "ssn": "683141441"
+}

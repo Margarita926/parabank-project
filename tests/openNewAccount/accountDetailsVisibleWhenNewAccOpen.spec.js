@@ -1,5 +1,7 @@
 import { test } from '../_fixtures/fixtures';
 import { signUpUser } from '../../src/ui/actions/auth/signUpUser';
+import { label, severity } from 'allure-js-commons';
+
 
  test.beforeEach(async ({ page}) => {
   

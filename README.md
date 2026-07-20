@@ -16,7 +16,6 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 - Transfer Funds
 - Bill Pay
 - Request Loan
-- Find Transactions
 - Update Contact Info
 - Log out
 
@@ -34,7 +33,7 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 - ESLint and Prettier
 
 ## Preview Link
-- Test report (GitHub Pages): https://github.com/Margarita926/parabank-project
+- Test report (GitHub Pages): https://margarita926.github.io/parabank-project/
 
 ## Design/Reference Link
 - Reference application (test environment): https://parabank.parasoft.com/

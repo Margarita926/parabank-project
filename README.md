@@ -23,10 +23,15 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 ## Technologies Used
 - Playwright
 - JavaScript and TypeScript (for fixtures)
+- Playwright Test fixtures
+- Page Object Model
+- Data-driven / parameterized testing
+- Browser contexts and page handling
+- Test data generation with Faker
 - Allure Report
 - Node.js and npm
 - GitHub Pages for report publishing
-- ESLint та Prettier
+- ESLint and Prettier
 
 ## Preview Link
 - Test report (GitHub Pages): https://github.com/Margarita926/parabank-project

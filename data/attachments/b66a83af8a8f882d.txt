@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u607493niw",
+  "email": "mertie_dillon.pfeffer28@yahoo.com",
+  "password": "IozhDatu_9PzWDD",
+  "firstName": "Neva",
+  "lastName": "Ritchie",
+  "city": "DeKalb",
+  "address": "7415 Wilhelmine River",
+  "state": "Georgia",
+  "zipCode": "75732",
+  "phoneNumber": "614-447-0786 x4085",
+  "ssn": "274901954"
+}

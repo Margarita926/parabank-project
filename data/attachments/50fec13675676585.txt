@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u341462qqu",
+  "email": "eliza_eldora.howell30@gmail.com",
+  "password": "wW99y3j0BJrtpDY",
+  "firstName": "Janis",
+  "lastName": "Sipes",
+  "city": "Jaskolskiburgh",
+  "address": "6579 Berge Rest",
+  "state": "New Jersey",
+  "zipCode": "80958",
+  "phoneNumber": "333-250-1725 x823",
+  "ssn": "803648135"
+}

@@ -1,0 +1,13 @@
+Generated user: {
+  "username": "u317793qkc",
+  "email": "delilah_natalie28@yahoo.com",
+  "password": "hxqEYumYNrFtLGW",
+  "firstName": "Ferne",
+  "lastName": "Russel",
+  "city": "Guillermochester",
+  "address": "229 S 10th Street",
+  "state": "Washington",
+  "zipCode": "62403-3891",
+  "phoneNumber": "(652) 582-9895 x0800",
+  "ssn": "794696335"
+}

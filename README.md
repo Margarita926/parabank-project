@@ -59,6 +59,15 @@ npm run test:allure
 ### 5) Open Allure report
 npm run report:open
 
+### 6) Adds all changed files, prepares them for commit
+git add .  
+
+### 7) Save the staged changes to the local repository
+git commit -m "comment"
+
+### 8) Sends the committed changes from the local master branch to the remote origin repository
+git push origin master
+
 ### 6) Publish report to GitHub Pages
 npm run deploy
 

@@ -47,7 +47,7 @@ The project covers key user flows: sign up, sign in, funds transfer, bill paymen
 To install the project follow the next steps:
 
 1. Install Node.js.
-2. Run the installation command in the project root.:
+2. Run the installation command in the project root:
 ```bash
 npm ci
 ```
